@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeydin31</h1>
+<h1 align="center">Hi 👋, I'm PAIMON</h1>
 <h3 align="center">A freelancer developer that likes to code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeydin31&label=Profile%20views&color=0e75b6&style=flat" alt="jeydin31" /> </p>
