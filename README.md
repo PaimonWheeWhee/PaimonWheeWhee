@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **my life and how I started coding**
 
-- 📫 How to reach me **JeyPham21@gmail.com**
+- 📫 How to reach me **DM me on Discord at Jeydin21#8816**
 
 - ⚡ Fun fact **I am a student coder!**
 
