@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **my life and how I started coding**
 
-- 📫 How to reach me **JeyPham21@gmail.com**
+- 📫 How to reach me **paimonwheewhee@gmail.com**
 
 - ⚡ Fun fact **I'm a student coder!**
 
